@@ -21,7 +21,7 @@ pom.xml.*
 
 #Ant
 #build.xml
-#local.properties
+local.properties
 #proguard.cfg
 
 #OSX
